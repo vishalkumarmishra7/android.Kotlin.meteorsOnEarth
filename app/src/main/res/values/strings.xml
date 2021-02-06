@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">MeteorsOnEarth</string>
-</resources>
+    <!-- Main activity -->
+    <string name="main_mass">%.3fg</string>
+    <string name="main_sort_title">Sort by</string>
+    <string name="main_sort_apply">Apply</string>
+    <string name="main_sort_cancel">Cancel</string>
+    <string name="main_sort_ascending">Ascending</string>
+    <string name="main_sort_descending">Descending</string>
+
+    <!-- Toasts -->
+    <string name="toast_no_data">No data available, sorting is disabled</string>
+
+    <!-- Sort spinner -->
+    <string name="default_field">mass</string>
+    <string-array name="sort_fields">
+        <item>Mass</item>
+        <item>Name</item>
+        <item>Year</item>
+    </string-array></resources>

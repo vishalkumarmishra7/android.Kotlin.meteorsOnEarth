@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.toolbar.MainActivity">
 
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_refresh"
+        android:menuCategory="secondary"
+        android:orderInCategory="1"
+        android:title="@string/main_sort_title"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_sort"
+        android:icon="@drawable/ic_sort"
+        android:menuCategory="secondary"
+        android:orderInCategory="1"
+        android:title="@string/main_sort_title"
+        app:showAsAction="ifRoom"/>
 </menu>
