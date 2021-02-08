@@ -2,8 +2,10 @@
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.4.21-blue.svg)](https://kotlinlang.org)
 [![AGP](https://img.shields.io/badge/AndroidStudio-4.0.1-blue?style=flat)](https://developer.android.com/studio/releases/gradle-plugin)
 [![Gradle](https://img.shields.io/badge/Gradle-6.1.1-blue?style=flat)](https://gradle.org)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/vishalkumarmishra7/android.kotlin.meteorsonearth/badge)](https://www.codefactor.io/repository/github/vishalkumarmishra7/android.kotlin.meteorsonearth)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/634cb4f7eece484498dc308236ee16e9)](https://app.codacy.com/gh/vishalkumarmishra7/android.Kotlin.meteorsOnEarth?utm_source=github.com&utm_medium=referral&utm_content=vishalkumarmishra7/android.Kotlin.meteorsOnEarth&utm_campaign=Badge_Grade)
+[![Build Status](https://app.bitrise.io/app/997a696e1c4cadbf/status.svg?token=aj8_Pji3QsdVlA4Bc_JvEA&branch=master)](https://app.bitrise.io/app/997a696e1c4cadbf)
 
 The goal of the project is to display a list of fallen meteors on Earth using NASA API and demonstrate best practices by using up to date tech-stack and presenting modular, scalable, maintainable, and modern Android application Architecture.
 
